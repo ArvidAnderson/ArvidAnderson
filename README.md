@@ -1,4 +1,4 @@
-# **Hello there**
+# **Hello there 👋**
 ### **My name is Arvid and im currently a proud employee of Selk Capital**
 
 
