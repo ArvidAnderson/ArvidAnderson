@@ -1,5 +1,5 @@
 # **Hello there 👋**
-### **My name is Arvid and im currently a proud employee of Selk Capital**
+## **My name is Arvid and im currently a proud employee of Selk Capital**
 
 
 ### My Github
