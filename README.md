@@ -2,7 +2,7 @@
 
 My name is Arvid, im at when writing this currently living outside of Gothenburg. This is my github profile where i post all of my work realted to coding which is what im trying to get expand my knowledge about. Coding is a freetime hobby aswell as an area of knowledge i study at school!
 
-Im right now an employee at the company SELK CAPITAL which is a a group of ountless innovative daughter companies such as SELK BREWERY, SELK AUTOMATION aswell as SELK DEVELOPMENT. For any inquires according SELK CAPITAL contact the CEO [OLIVER TD](https://github.com/olivertd)
+Im right now an employee at the company SELK CAPITAL which is a a group of countless innovative daughter companies such as SELK BREWERY, SELK AUTOMATION aswell as SELK DEVELOPMENT. For any inquires according SELK CAPITAL contact the CEO [OLIVER TD](https://github.com/olivertd)
 
 ### 𝙈𝙮 𝙂𝙞𝙩𝙝𝙪𝙗
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arvidanderson&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
