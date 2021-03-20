@@ -1,6 +1,4 @@
 # **𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚 👋**
-## **𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝘼𝙧𝙫𝙞𝙙 𝙖𝙣𝙙 𝙞𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙖 𝙥𝙧𝙤𝙪𝙙 𝙚𝙢𝙥𝙡𝙤𝙮𝙚𝙚 𝙤𝙛 𝙎𝙚𝙡𝙠 𝘾𝙖𝙥𝙞𝙩𝙖𝙡**
-
 
 ### 𝙈𝙮 𝙂𝙞𝙩𝙝𝙪𝙗
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arvidanderson&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
