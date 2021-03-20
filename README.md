@@ -1,6 +1,6 @@
 # **𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚 👋**
 
-My name is Arvid, im at when writing this currently 17 years old and living outside of Gothenburg. This is my github profile where i post all of my work realted to coding which is what im trying to get expand my knowledge about. Coding is a freetime hobby aswell as an area of knowledge i study at school!
+My name is Arvid, im at when writing this currently living outside of Gothenburg. This is my github profile where i post all of my work realted to coding which is what im trying to get expand my knowledge about. Coding is a freetime hobby aswell as an area of knowledge i study at school!
 
 Im right now an employee at the company SELK CAPITAL which is a a group of ountless innovative daughter companies such as SELK BREWERY, SELK AUTOMATION aswell as SELK DEVELOPMENT. For any inquires according SELK CAPITAL contact the CEO [OLIVER TD](https://github.com/olivertd)
 
