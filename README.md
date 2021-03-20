@@ -1,5 +1,7 @@
 # **𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚 👋**
 
+My name is Arvid, im at when writing this currently 17 years old and living outside of Gothenburg. This is my github profile where i post all of my work realted to coding which is what im trying to get expand my knowledge about. Coding is what i do when im not at work, im right now an employee at the company SELK CAPITAL which is a a group of ountless innovative daughter companies such as SELK BREWERY, SELK AUTOMATION aswell as SELK DEVELOPMENT. For any inquires according SELK CAPITAL contact the seo [OLIVER TD](https://github.com/olivertd)
+
 ### 𝙈𝙮 𝙂𝙞𝙩𝙝𝙪𝙗
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arvidanderson&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidanderson&layout=compact&theme=gotham&custom_title=Statistics)  
